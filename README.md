@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm an Information System & Tech Student <br>📱 I’m currently learning Android development<br>💬 I'm interested in Android and Data Topic<br>⚡ Fun fact - I'm iOS User (i don't have android device)
+💻 I'm an Information System & Tech Student <br>📱 I’m currently learning Android development<br>💬 I'm interested in Android and Data Topic<br>⚡ Fun fact - I'm iOS User 
 
 
 ## 🌐 Socials:
