@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm an Information System & Tech Student <br>📱 I’m currently learning Android development<br>💬 I'm interested in Android and Data Topic<br>⚡ Fun fact - I'm iOS User 
+💻 I'm an Information System & Tech Student <br>📱 I’m currently learning Android Development using Kotlin and Backend using Spring Boot<br>💬 I'm interested in Android, Backend, and IoT Topic<br>⚡ Fun fact - I'm iOS User 
 
 
 ## 🌐 Socials:
